@@ -1,9 +1,11 @@
-# Calculator
+## Python - CircleCI
 
-## Description
-This project provides a simple calculator implemented in Python. It includes basic arithmetic operations such as addition, subtraction, multiplication, and division.
+### Run the code
+```
+python main.py
+```
 
-## Usage
-1. Import the `Calculator` class from `calculator.py` into your Python script:
-   ```python
-   from calculator import Calculator
+### Test the code
+```
+python tests.py
+```
